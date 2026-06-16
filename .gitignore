@@ -1,0 +1,6 @@
+.ref/
+docs/superpowers/
+__pycache__/
+.venv/
+.claude/
+
