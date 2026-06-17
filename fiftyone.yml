@@ -1,0 +1,19 @@
+name: Voxel51/VisualOverload
+type: dataset
+author: Paul Gavrikov et al.
+version: 1.0.0
+url: https://github.com/Voxel51/VisualOverload
+source: https://huggingface.co/datasets/paulgavrikov/visualoverload
+license: cc-by-sa-4.0
+description: >-
+  VisualOverload (CVPR 2026) — a visual question answering benchmark of 2,720
+  question-answer pairs over 150 high-resolution public-domain paintings densely
+  populated with figures, actions, and detail. One sample per question;
+  ground-truth answers are held privately.
+fiftyone:
+  version: "*"
+supports_partial_downloads: false
+tags:
+  - image
+  - vqa
+  - visual-question-answering
