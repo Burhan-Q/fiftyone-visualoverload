@@ -3,4 +3,6 @@ docs/superpowers/
 __pycache__/
 .venv/
 .claude/
+assets/preview.jpg
+.DS_Store
 

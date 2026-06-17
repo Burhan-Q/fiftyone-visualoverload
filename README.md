@@ -1,5 +1,9 @@
 # VisualOverload — FiftyOne Remote Zoo Dataset
 
+<div align="center">
+  <img width="1440" height="640" alt="VisualOverload sample paintings" src="https://github.com/user-attachments/assets/0258ed1b-8a8b-4008-a4ca-0c22caae5221" />
+</div>
+
 A [remotely-sourced FiftyOne Dataset Zoo](https://docs.voxel51.com/dataset_zoo/remote.html)
 integration of [**VisualOverload**](https://huggingface.co/datasets/paulgavrikov/visualoverload)
 (CVPR 2026).
